@@ -1,0 +1,55 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="GoTo">
+			<method name="GoToTheStore"/>
+			<method name="GoToTheGame"/>
+			<method name="GoTODailyReward"/>
+			<method name="GoToTwitter"/>
+			<method name="GoToFaceBook"/>
+			<method name="GoToTheMenu"/>
+			<method name="GoToTheMenu"/>
+			<method name="GoToTheGame"/>
+			<method name="GoToTheMenu"/>
+			<method name="GoToTheMenu"/>
+		</type>
+		<type fullname="PauseMenuScript">
+			<method name="Resume"/>
+			<method name="Pauses"/>
+		</type>
+		<type fullname="Continue">
+			<method name="No"/>
+			<method name="Yes"/>
+		</type>
+		<type fullname="SelectColor">
+			<method name="Orange"/>
+			<method name="MintGreen"/>
+			<method name="Pink"/>
+			<method name="LightOrange"/>
+			<method name="Purple"/>
+			<method name="Green"/>
+			<method name="Brown"/>
+			<method name="Lime"/>
+			<method name="White"/>
+			<method name="Red"/>
+			<method name="HighLighter"/>
+			<method name="Mustard"/>
+			<method name="Cyan"/>
+			<method name="Blue"/>
+			<method name="BrightPink"/>
+			<method name="Silver"/>
+			<method name="GreyBLue"/>
+			<method name="ChangeColor"/>
+			<method name="Grey"/>
+			<method name="Yellow"/>
+			<method name="NavyBLue"/>
+		</type>
+		<type fullname="VideoReward">
+			<method name="Yes"/>
+			<method name="AskToWatchAd"/>
+			<method name="No"/>
+		</type>
+		<type fullname="DailyReward">
+			<method name="getReward"/>
+		</type>
+	</assembly>
+</linker>

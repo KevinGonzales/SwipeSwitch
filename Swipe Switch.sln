@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AA09902F-CE50-014E-921B-50E193E7609B}") = "Swipe Switch", "Assembly-CSharp-firstpass.csproj", "{6F53C3BC-4531-4BC3-5081-F39B974CC775}"
+EndProject
+Project("{AA09902F-CE50-014E-921B-50E193E7609B}") = "Swipe Switch", "Assembly-CSharp.csproj", "{14103E7C-1E06-593E-AF7C-5E9DEC604B5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F53C3BC-4531-4BC3-5081-F39B974CC775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F53C3BC-4531-4BC3-5081-F39B974CC775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F53C3BC-4531-4BC3-5081-F39B974CC775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F53C3BC-4531-4BC3-5081-F39B974CC775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14103E7C-1E06-593E-AF7C-5E9DEC604B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14103E7C-1E06-593E-AF7C-5E9DEC604B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14103E7C-1E06-593E-AF7C-5E9DEC604B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14103E7C-1E06-593E-AF7C-5E9DEC604B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

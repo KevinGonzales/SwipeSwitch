@@ -1,0 +1,13 @@
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/UnityEngine.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/UnityEditor.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/Mono.Cecil.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/kevingonzales/Unity Projects/Swipe Switch/Temp/bin/Debug/Mono.Cecil.Mdb.dll
